@@ -9,3 +9,5 @@ Them noi dung nhan vien C
 Thay doi noi dung 1
 
 Thay doi noi dung 2
+
+Noi dung 2
