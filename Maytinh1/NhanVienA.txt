@@ -11,3 +11,5 @@ Them noi dung nhan vien C
 Thay doi noi dung complict
 
 Thay doi noi dung complict lan 2
+
+Thay dou noi dung nhanh c 2
