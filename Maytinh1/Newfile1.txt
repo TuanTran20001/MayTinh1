@@ -1,1 +1,3 @@
 noi dung file moi 1
+
+noi dung file moi 2
