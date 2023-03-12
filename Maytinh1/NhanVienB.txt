@@ -1,3 +1,5 @@
 them noi dung nhan vien B
 
-thay doi noi dung nhan vien B = sourcestree
+thay doi noi dung nhan vien B
+
+thay doi noi dung nhan vien B 2
