@@ -8,6 +8,7 @@ Noi dung them moi nhanh main
 
 Them noi dung nhan vien C
 
+<<<<<<< HEAD
 Thay doi noi dung complict
 
 Thay doi noi dung complict lan 2
@@ -18,3 +19,8 @@ Them noi dung nhan vien C
 
 Thay doi noi dung 1
 
+=======
+Thay doi noi dung 1
+
+Thay doi noi dung 2
+>>>>>>> NhanVienC
