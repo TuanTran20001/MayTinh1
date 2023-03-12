@@ -5,3 +5,6 @@ Them moi noi dung nhan vien A
 Thay doi noi dung nhan vien A = source tree
 
 Noi dung them moi nhanh main
+
+Them noi dung nhan vien C
+
