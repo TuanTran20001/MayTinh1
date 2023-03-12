@@ -5,3 +5,5 @@ Them moi noi dung nhan vien A
 Thay doi noi dung nhan vien A = source tree
 
 Them noi dung nhan vien C
+
+Thay doi noi dung 1
