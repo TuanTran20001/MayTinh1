@@ -1,2 +1,5 @@
 them moi file git
-update
+
+updte file moi git 
+
+them file moi thanh cong 
